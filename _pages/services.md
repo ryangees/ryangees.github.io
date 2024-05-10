@@ -2,7 +2,7 @@
 layout: page
 permalink: /services/
 title: "Services"
-description: "Services offerred"
+description: "Services offered"
 nav: true
 ---
 
@@ -11,7 +11,7 @@ Please email me at cybercareerconsults[at]gmail(dot)com to get started or for an
 
 ## Resume review
 
-### 100$
+**100$**
 
 Resumes are the first thing a recruiter sees, and are ultimately the very first point of contact you have with the job pipeline.
 It is crucial to have a good resume which exemplifies your current skillset and your fit for the position.
@@ -21,7 +21,7 @@ I will collate a list of potential improvements and things which can be done whi
 
 ## Career Consultation
 
-### Price on inquiry
+**Price on inquiry**
 
 The time and services provided by this consultation are flexible. 
 We can work on a career plan together over multiple hours, or I can help you develop skills required to get hired.
