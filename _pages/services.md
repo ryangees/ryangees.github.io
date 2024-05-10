@@ -19,6 +19,12 @@ It is crucial to have a good resume which exemplifies your current skillset and 
 In this thirty minute consultation session, I will review your resume and look for quick wins which can be implemented immediately. 
 I will collate a list of potential improvements and things which can be done which might take a bit longer to acquire (such as skills) which will enhance your resume and make you more employable.
 
+## Trainings
+
+** Price on inquiry**
+
+I can provide trainings on incident response, digital forensics and malware reverse engineering.
+
 ## Career Consultation
 
 **Price on inquiry**
